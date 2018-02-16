@@ -3,6 +3,8 @@ Adding Vue to an existing Tech Stack
 
 Slides and other resources regarding my talk first held at vuejsamsterdam in February 2018.
 
+An online version of the slides is [available on Speakerdeck.](https://speakerdeck.com/codebryo/adding-vue-to-an-existing-stack-and-get-ready-to-scale#)
+
 If here is anything you want to use, feel free to use it.
 Please don't take the slides and present as your own.
 
